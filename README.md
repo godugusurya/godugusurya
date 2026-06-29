@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @godugusurya
-- 👀 I’m interested in.AI&ML..
-- 🌱 I’m currently learning B.TECH CSE(AI&ML)..
+- 👀 I’m interested in front-end development..
+- I am a graduated student.....Batch 2022-2026
+- 🌱 I Completed my B.TECH in CSE(AI&ML)..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by linkedln...
 - 😄 Pronouns: ...I
